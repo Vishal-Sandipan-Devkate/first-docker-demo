@@ -1,0 +1,7 @@
+nide_modules
+.git
+.gitignore
+.env
+
+# Makes docker builds more faster, cleaner and secure
+
